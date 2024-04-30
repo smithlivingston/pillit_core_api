@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pillit.api", "Pillit.api\Pillit.api.csproj", "{55B91585-B3A8-4FDE-B737-2BF3AF360E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pillit.lib", "pillit.lib\pillit.lib.csproj", "{60D3E4D8-D6A0-4D76-9F37-1E5593D3F4C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B91585-B3A8-4FDE-B737-2BF3AF360E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B91585-B3A8-4FDE-B737-2BF3AF360E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B91585-B3A8-4FDE-B737-2BF3AF360E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B91585-B3A8-4FDE-B737-2BF3AF360E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D3E4D8-D6A0-4D76-9F37-1E5593D3F4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D3E4D8-D6A0-4D76-9F37-1E5593D3F4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D3E4D8-D6A0-4D76-9F37-1E5593D3F4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D3E4D8-D6A0-4D76-9F37-1E5593D3F4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98AC3D8-2817-4E63-BFBA-FE03D0A853B3}
+	EndGlobalSection
+EndGlobal
